@@ -1,9 +1,9 @@
 class CastTime < Formula
   desc "Give Claude a clock — local time + timezone context for Claude Code"
   homepage "https://github.com/ek33450505/cast-time"
-  url "https://github.com/ek33450505/cast-time/archive/refs/tags/v0.1.1.tar.gz"
-  version "0.1.1"
-  sha256 "638885b197102c7a288848a3c70a4931841e247bc5058f25d7f04c53d038a294"
+  url "https://github.com/ek33450505/cast-time/archive/refs/tags/v0.1.2.tar.gz"
+  version "0.1.2"
+  sha256 "9fd5fb1bdbadc316ff10062486462aa5e113b6e22302f3aa2be699105df9ed58"
   license "MIT"
 
   def install
